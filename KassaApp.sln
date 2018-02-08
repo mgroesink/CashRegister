@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassaApp", "KassaApp\KassaApp.csproj", "{700820FE-C2A7-4ABD-9D88-CCD19982368B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassaAppTests", "KassaAppTests\KassaAppTests.csproj", "{D0DEC895-7DAE-4726-A231-273CB5FFD99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700820FE-C2A7-4ABD-9D88-CCD19982368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700820FE-C2A7-4ABD-9D88-CCD19982368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700820FE-C2A7-4ABD-9D88-CCD19982368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700820FE-C2A7-4ABD-9D88-CCD19982368B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DEC895-7DAE-4726-A231-273CB5FFD99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DEC895-7DAE-4726-A231-273CB5FFD99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DEC895-7DAE-4726-A231-273CB5FFD99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DEC895-7DAE-4726-A231-273CB5FFD99E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0BB901F-AFA4-4623-A67D-3B1DC8F3DCAF}
+	EndGlobalSection
+EndGlobal
