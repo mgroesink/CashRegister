@@ -20,9 +20,9 @@ namespace KassaApp
 
             try
             {
-                decimal wisselgeld = k.Cashback(tebetalen, betaald);
+                string wisselgeld = k.Cashback(tebetalen, betaald);
 
-                Console.WriteLine("Wisselgeld: " + wisselgeld + " euro");
+                Console.WriteLine(k.Cashback(tebetalen, betaald));
             }
             catch(Exception ex)
             {
